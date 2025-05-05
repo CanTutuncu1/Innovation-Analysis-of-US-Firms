@@ -10,5 +10,5 @@ Feature 3: Innovation by Firm Size
 Feature 4: R&D Intensity by Firm Size
 
 ## Technical Properties
-Python 3.13.0. Written in VS Code
+Python 3.13.0. written in VS Code.
 Libraries used are 'pandas', 'numpy', 'matplotlib','seaborn','statsmodels.formula.api'
