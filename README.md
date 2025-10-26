@@ -1,5 +1,5 @@
 # Innovation Analysis of US Firms
-This project was prepared for a data assignment for the class of '20603: Innovation and Economic Growth' given by Prof. Prato. 
+This project was prepared for a data assignment for the class of '20971: Innovation and Economic Growth' given by Prof. Prato. 
 The purpose of this project is to replicate some of the key empirical findings of the paper Akcigit and Kerr (2018).
 In this project data was obtained from Compustat of WRDS and from Patent Data Project of NBER for the patent data. For further information on which datasets to download and how, please contact me.
 
